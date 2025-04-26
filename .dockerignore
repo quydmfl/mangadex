@@ -1,0 +1,4 @@
+docker
+.vscode
+compose.yml
+.gitignore
